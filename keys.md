@@ -1,6 +1,16 @@
 **keys**
 
-Your keys live in ./roro/keys and are used to obfuscate and expose sensitive directories and files. 
+Your keys live in ./roro/keys. You will need them to: 
+1. Obfuscate (encrypt) plaintext environment variables so they can only 
+   be accessed in the environments they're needed:
+      * Share your development key with the developers on your team.
+      * Share your Your CI key with your Circle or Semaphor or Github or
+        whoever you handle CI/CD with.
+      * Store your production key on your production server.
+2. Expose (decrypt) previously obfuscated .env.enc files for other developers 
+   on your team to use on their machines, 
+   on your team. 
+   other
 
 **explicit single key generation** 
 
