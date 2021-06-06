@@ -9,3 +9,5 @@ This is where RoRo comes in. RoRo is a set of tools and conventions to help you 
 RoRo is focused on web application stories for WordPress, Django, Flask, and Rails, Vue, React and Node, with continuous integrations stories using Circle CI and Github and production stories using Kubernetes on Digital Ocean, Google App Engine and AWS. There will be other stories, trilogies and epics. 
 
 Perhaps you will write one?
+
+

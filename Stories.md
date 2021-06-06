@@ -1,0 +1,4 @@
+How do we create a story?
+
+I don't know. Only you know. RoRo is just a better way for you to tell your story. One that reduces the tyranny of choice and of myriad configurations where those choices and configurations don't add value. You are the developer. You are a craftsman. You are not concerned with the metallurgy that goes into your knives and pans, only that the pan is t right size and distributes heat the way you want it to, and that the knife fits your style of motion is the right one for cutting bread and not the one for slicing sashimi. You don't care what your pans are made of, only that they distribute heat evenly. RoRo is just part of your work space. In French kitchens, the cook has her mise en place. Everything where she wants it. Her pans in one place, her salt and pepper in another, her sauces on the side and her commonly used tools exactly where she knows to get them.   
+
